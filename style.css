@@ -1,0 +1,23 @@
+.wrapper {
+    background: yellow;
+    display: inline-block;
+    
+}
+body {
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+
+}
+main {
+    display: flex;
+
+}
+.card {
+    margin: 50px;
+    padding: 50px 70px;
+    border: 2px solid;
+    border-radius: 30px;
+}
